@@ -1,6 +1,6 @@
 # Problems from Amazon Test Series from GeeksforGeeks
 
-I will be updating the repository as I finish solving the problems.
+These are all the problems I solved from the test series. I will be updating the repository as I finish solving the problems.
 
 Find the link here:
 [Amazon test series](https://practice.geeksforgeeks.org/courses/Amazon-Test-Series)
