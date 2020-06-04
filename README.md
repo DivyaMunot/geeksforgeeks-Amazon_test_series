@@ -5,7 +5,7 @@ These are all the problems I solved from the test series. I will be updating the
 Find the link here:
 [Amazon test series](https://practice.geeksforgeeks.org/courses/Amazon-Test-Series)
 
-1. Arrays
+1. [Arrays](https://github.com/DivyaMunot/geeksforgeeks-Amazon_test_series/tree/master/Arrays)
 2. Searching	
 3. Sorting
 4. Matrix
