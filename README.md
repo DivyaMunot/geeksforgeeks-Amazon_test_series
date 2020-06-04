@@ -3,7 +3,7 @@
 I will be updating the repository as I finish solving the problems.
 
 Find the link here:
-[Amazon test series](https://practice.geeksforgeeks.org/batch/Amazon-Test-Series)
+[Amazon test series](https://practice.geeksforgeeks.org/courses/Amazon-Test-Series)
 
 1. Arrays
 2. Searching	
