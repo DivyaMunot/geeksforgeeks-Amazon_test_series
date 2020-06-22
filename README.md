@@ -10,7 +10,7 @@ Find the link here:
 3. Sorting
 4. Matrix
 5. Hashing
-6. [Strings]()
+6. [Strings](https://github.com/DivyaMunot/geeksforgeeks-Amazon_test_series/tree/master/Strings)
 7. Linked List
 8. Stack
 9. Queue
