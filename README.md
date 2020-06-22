@@ -12,7 +12,7 @@ Find the link here:
 5. Hashing
 6. [Strings](https://github.com/DivyaMunot/geeksforgeeks-Amazon_test_series/tree/master/Strings)
 7. Linked List
-8. Stack
+8. [Stacks](https://github.com/DivyaMunot/geeksforgeeks-Amazon_test_series/tree/master/Stacks)
 9. Queue
 10. Trees
 11. Binary Search Tree
