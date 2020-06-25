@@ -15,7 +15,7 @@ Find the link here:
 8. [Stacks](https://github.com/DivyaMunot/geeksforgeeks-Amazon_test_series/tree/master/Stacks)
 9. Queue
 10. Trees
-11. Binary Search Tree
+11. [Binary Search Tree](https://github.com/DivyaMunot/geeksforgeeks-Amazon_test_series/tree/master/Binary%20Search%20Tree)
 12. Heap
 13. Graph
 14. Backtracking
