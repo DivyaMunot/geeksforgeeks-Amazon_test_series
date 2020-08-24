@@ -6,7 +6,7 @@ Find the link here:
 [Amazon test series](https://practice.geeksforgeeks.org/courses/Amazon-Test-Series)
 
 1. [Arrays](https://github.com/DivyaMunot/geeksforgeeks-Amazon_test_series/tree/master/Arrays)
-2. Searching	
+2. [Searching](https://github.com/DivyaMunot/geeksforgeeks-Amazon_test_series/tree/master/Searching)
 3. Sorting
 4. Matrix
 5. Hashing
